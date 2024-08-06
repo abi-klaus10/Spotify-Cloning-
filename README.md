@@ -14,8 +14,9 @@ As part of learning to code,I completed a project that involved creating a basic
 Once the Spotify clone is open in your browser, You can then click the play button next to the song to start playing it, and use the playback controls at the bottom of the page to control the song playback.The currently playing song and album artwork are displayed in the "Now Playing" section at the bottom of the page.
 
 # Screenshot
-BEFORE:
-![image](https://github.com/user-attachments/assets/2f50a9a6-8806-4386-895a-3774ef8d401a)
+Original :
 
-AFTER:
+![2024-08-06 (6)](https://github.com/user-attachments/assets/a94f1a72-9ba1-4aee-bd71-add94e61e03c)
+
+cloning:
 ![2024-08-06](https://github.com/user-attachments/assets/eb753561-a973-47cc-9fbd-c271311f8ecf)
